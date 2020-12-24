@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there. 
+## I am Flyspeck101. I am a GitHub user. (Well, duh.) 
+I have a bot called Flyspeck102, and you can contact me through it: flyspeck102@gmail.com
+
 
 <!--
 **Flyspeck101/flyspeck101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
