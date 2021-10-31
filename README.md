@@ -3,6 +3,8 @@
 I have a bot called Flyspeck102, and you can contact me through it: flyspeck102@gmail.com
 
 I am the owner of [Split Diamond Labs](https://split-diamond-labs.github.io).
+
+You can read more about me at https://flyspeck101.github.io. I'm not going to put it all here because it would make my profile messy. I suffer from ACHOO syndrome, which means I sneeze when I look at bright things. 
 <!--
 **Flyspeck101/flyspeck101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
